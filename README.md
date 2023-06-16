@@ -10,6 +10,8 @@ December 2022. ([source](https://www.tensorflow.org/tutorials/generative/pix2pix
 + Nathanaël Perraudin et al. DeepSphere: Efficient spherical convolutional neural network with HEALPix sampling for cosmological applications, October 2018. ([paper](https://arxiv.org/abs/1810.12186))
 + Matthew A. Petroff et al. Fullsky cosmic microwave background foreground cleaning using machine learning, April 2020. ([paper](https://arxiv.org/abs/2004.11507))
 + pawangfg. Image-to-image translation using pix2pix, June 2022. ([source](https://www.geeksforgeeks.org/image-to-image-translation-using-pix2pix/))
++ Francisco Villaescusa-Navarro et al. The CAMELS project: Cosmology and astrophysics with machine-learning simulations, July 2021. ([paper](https://doi.org/10.3847%2F1538-4357%2Fabf7ba))
+
 
 The deepsphere folder is from the [deepsphere GiHub repository](https://github.com/deepsphere/deepsphere-cosmo-tf2) (installation of packages has been performed according to the instructions in the deepsphere repository). Furthermore, the sccn folder is a supplement to the [paper](https://arxiv.org/abs/2004.11507) by Petroff et al. and can be found [here](https://zenodo.org/record/3764069#.ZABja4DMIvk).
 
